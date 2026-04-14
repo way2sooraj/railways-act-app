@@ -3,7 +3,7 @@
     "name": "Railways Act 1989",
     "slug": "railways-act",
     "version": "1.0.1",
-    "orientation": "portrait",
+    "orientation": "default",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "updates": {
@@ -19,6 +19,7 @@
       "bundleIdentifier": "com.soorajrk.railwaysact"
     },
     "android": {
+      "versionCode": 2,
       "adaptiveIcon": {
         "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#1A2744"
