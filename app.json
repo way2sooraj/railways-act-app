@@ -16,7 +16,11 @@
     },
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.soorajrk.railwaysact"
+      "bundleIdentifier": "com.soorajrk.railwaysact",
+      "buildNumber": "1",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      }
     },
     "android": {
       "versionCode": 2,
